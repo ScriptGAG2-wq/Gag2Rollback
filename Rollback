@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/LMTJkcU4"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MakuScripts-eng/Rollback-script/refs/heads/main/Rollback%20script"))()
